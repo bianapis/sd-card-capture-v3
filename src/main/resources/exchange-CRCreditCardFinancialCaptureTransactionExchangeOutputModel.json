@@ -1,0 +1,8 @@
+{
+  "creditCardFinancialCaptureTransactionExchangeActionTaskReference" : "CCFCTEATR769794",
+  "creditChargeCardFinancialCaptureTransactionParameterType" : "creditChargeCardFinancialCaptureTransactionParameterType",
+  "creditChargeCardFinancialCaptureTransactionStatus" : "creditChargeCardFinancialCaptureTransactionStatus",
+  "creditCardFinancialCaptureTransactionExchangeActionTaskRecord" : {},
+  "creditCardFinancialCaptureTransactionExchangeActionResponse" : "creditCardFinancialCaptureTransactionExchangeActionResponse",
+  "creditChargeCardFinancialCaptureTransactionSelectedOption" : "creditChargeCardFinancialCaptureTransactionSelectedOption"
+}

@@ -1,0 +1,39 @@
+{
+  "cardCaptureRetrieveActionResponse" : "cardCaptureRetrieveActionResponse",
+  "cardCaptureRetrieveActionTaskReference" : "SRATR795161",
+  "cardCaptureRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "cardCaptureActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "cardCapturePerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "cardCaptureRetrieveActionTaskRecord" : {},
+  "cardCaptureOfferedService" : {
+    "cardCaptureServiceRecord" : {
+      "cardCaptureServiceType" : "cardCaptureServiceType",
+      "cardCaptureServiceVersion" : "cardCaptureServiceVersion",
+      "cardCaptureServiceSchedule" : "cardCaptureServiceSchedule",
+      "cardCaptureServicePoliciesandGuidelines" : {
+        "cardCaptureServicePricingandTerms" : "cardCaptureServicePricingandTerms",
+        "cardCaptureServiceIntendedUses" : "cardCaptureServiceIntendedUses",
+        "cardCaptureServiceEligibility" : "cardCaptureServiceEligibility"
+      },
+      "cardCaptureServiceDescription" : "cardCaptureServiceDescription"
+    },
+    "cardCaptureServiceReference" : "776158"
+  }
+}

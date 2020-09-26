@@ -1,0 +1,14 @@
+{
+  "transactionReversalPostconditions" : "transactionReversalPostconditions",
+  "transactionReversalCardTransactionReversalServiceType" : "transactionReversalCardTransactionReversalServiceType",
+  "transactionReversalCardTransactionReversalServiceWorkProduct" : "transactionReversalCardTransactionReversalServiceWorkProduct",
+  "transactionReversalTaskSchedule" : "transactionReversalTaskSchedule",
+  "transactionReversalCardTransactionReversalServiceInputsandOuputs" : "transactionReversalCardTransactionReversalServiceInputsandOuputs",
+  "transactionReversalPreconditions" : "transactionReversalPreconditions",
+  "updateResponseRecord" : {},
+  "transactionReversalCardTransactionReversalServiceName" : "transactionReversalCardTransactionReversalServiceName",
+  "transactionReversalCardTransactionReversalServiceDescription" : "transactionReversalCardTransactionReversalServiceDescription",
+  "transactionCaptureUpdateActionTaskRecord" : {},
+  "cardTransactionReversal" : "cardTransactionReversal",
+  "transactionCaptureUpdateActionTaskReference" : "TCUATR777587"
+}

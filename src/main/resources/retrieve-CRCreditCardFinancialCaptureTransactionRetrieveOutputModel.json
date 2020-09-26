@@ -1,0 +1,20 @@
+{
+  "creditCardFinancialCaptureTransactionInstanceAnalysis" : {
+    "creditCardFinancialCaptureTransactionInstanceAnalysisReport" : {},
+    "creditCardFinancialCaptureTransactionInstanceAnalysisReportType" : "creditCardFinancialCaptureTransactionInstanceAnalysisReportType",
+    "creditCardFinancialCaptureTransactionInstanceAnalysisData" : "creditCardFinancialCaptureTransactionInstanceAnalysisData"
+  },
+  "creditCardFinancialCaptureTransactionRetrieveActionResponse" : "creditCardFinancialCaptureTransactionRetrieveActionResponse",
+  "creditChargeCardFinancialCaptureTransactionParameterType" : "creditChargeCardFinancialCaptureTransactionParameterType",
+  "creditChargeCardFinancialCaptureTransactionStatus" : "creditChargeCardFinancialCaptureTransactionStatus",
+  "creditCardFinancialCaptureTransactionRetrieveActionTaskRecord" : {},
+  "creditChargeCardFinancialCaptureTransactionType" : "creditChargeCardFinancialCaptureTransactionType",
+  "creditChargeCardFinancialCaptureTransactionTransactionType" : "creditChargeCardFinancialCaptureTransactionTransactionType",
+  "creditCardFinancialCaptureTransactionRetrieveActionTaskReference" : "CCFCTRATR703234",
+  "creditChargeCardFinancialCaptureTransactionSelectedOption" : "creditChargeCardFinancialCaptureTransactionSelectedOption",
+  "creditCardFinancialCaptureTransactionInstanceReportRecord" : {
+    "creditCardFinancialCaptureTransactionInstanceReportData" : "creditCardFinancialCaptureTransactionInstanceReportData",
+    "creditCardFinancialCaptureTransactionInstanceReport" : {},
+    "creditCardFinancialCaptureTransactionInstanceReportType" : "creditCardFinancialCaptureTransactionInstanceReportType"
+  }
+}

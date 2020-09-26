@@ -1,0 +1,8 @@
+{
+  "creditChargeCardFinancialCaptureTransactionParameterType" : "creditChargeCardFinancialCaptureTransactionParameterType",
+  "creditChargeCardFinancialCaptureTransactionStatus" : "creditChargeCardFinancialCaptureTransactionStatus",
+  "creditCardFinancialCaptureTransactionControlActionTaskRecord" : {},
+  "creditCardFinancialCaptureTransactionControlActionResponse" : "creditCardFinancialCaptureTransactionControlActionResponse",
+  "creditCardFinancialCaptureTransactionControlActionTaskReference" : "CCFCTCATR749798",
+  "creditChargeCardFinancialCaptureTransactionSelectedOption" : "creditChargeCardFinancialCaptureTransactionSelectedOption"
+}

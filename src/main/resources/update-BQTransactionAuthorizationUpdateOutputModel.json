@@ -1,0 +1,14 @@
+{
+  "transactionCaptureServiceDescription" : "transactionCaptureServiceDescription",
+  "businessService" : "businessService",
+  "transactionCaptureServiceName" : "transactionCaptureServiceName",
+  "transactionAuthorizationUpdateActionTaskRecord" : {},
+  "transactionCaptureTaskSchedule" : "transactionCaptureTaskSchedule",
+  "transactionCaptureServiceInputsandOuputs" : "transactionCaptureServiceInputsandOuputs",
+  "transactionCapturePostconditions" : "transactionCapturePostconditions",
+  "transactionCapturePreconditions" : "transactionCapturePreconditions",
+  "updateResponseRecord" : {},
+  "transactionCaptureServiceType" : "transactionCaptureServiceType",
+  "transactionAuthorizationUpdateActionTaskReference" : "TAUATR728928",
+  "transactionCaptureServiceWorkProduct" : "transactionCaptureServiceWorkProduct"
+}

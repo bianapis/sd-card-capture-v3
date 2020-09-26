@@ -1,0 +1,25 @@
+{
+  "businessService" : "businessService",
+  "transactionAuthorizationServiceType" : "transactionAuthorizationServiceType",
+  "transactionAuthorizationPreconditions" : "transactionAuthorizationPreconditions",
+  "transactionAuthorizationPostconditions" : "transactionAuthorizationPostconditions",
+  "transactionReversalRetrieveActionTaskRecord" : {},
+  "transactionAuthorizationServiceWorkProduct" : "transactionAuthorizationServiceWorkProduct",
+  "transactionReversalRetrieveActionTaskReference" : "TRRATR776944",
+  "transactionReversalInstanceReport" : {
+    "transactionReversalInstanceReport" : {},
+    "transactionReversalInstanceReportRecord" : {},
+    "transactionReversalInstanceReportType" : "transactionReversalInstanceReportType",
+    "transactionReversalInstanceReportParameters" : "transactionReversalInstanceReportParameters"
+  },
+  "transactionReversalInstanceAnalysis" : {
+    "transactionReversalInstanceAnalysisReport" : {},
+    "transactionReversalInstanceAnalysisRecord" : {},
+    "transactionReversalInstanceAnalysisReportType" : "transactionReversalInstanceAnalysisReportType",
+    "transactionReversalInstanceAnalysisParameters" : "transactionReversalInstanceAnalysisParameters"
+  },
+  "transactionReversalRetrieveActionResponse" : "transactionReversalRetrieveActionResponse",
+  "transactionAuthorizationTaskSchedule" : "transactionAuthorizationTaskSchedule",
+  "transactionAuthorizationServiceDescription" : "transactionAuthorizationServiceDescription",
+  "transactionAuthorizationServiceInputsandOuputs" : "transactionAuthorizationServiceInputsandOuputs"
+}

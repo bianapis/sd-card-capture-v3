@@ -1,0 +1,26 @@
+{
+  "businessService" : "businessService",
+  "transactionCaptureServiceName" : "transactionCaptureServiceName",
+  "transactionCaptureTaskSchedule" : "transactionCaptureTaskSchedule",
+  "transactionAuthorizationRetrieveActionTaskRecord" : {},
+  "transactionCapturePostconditions" : "transactionCapturePostconditions",
+  "transactionAuthorizationInstanceAnalysis" : {
+    "transactionAuthorizationInstanceAnalysisRecord" : {},
+    "transactionAuthorizationInstanceAnalysisReport" : {},
+    "transactionAuthorizationInstanceAnalysisReportType" : "transactionAuthorizationInstanceAnalysisReportType",
+    "transactionAuthorizationInstanceAnalysisParameters" : "transactionAuthorizationInstanceAnalysisParameters"
+  },
+  "transactionAuthorizationRetrieveActionTaskReference" : "TARATR741240",
+  "transactionCaptureServiceDescription" : "transactionCaptureServiceDescription",
+  "transactionAuthorizationInstanceReport" : {
+    "transactionAuthorizationInstanceReport" : {},
+    "transactionAuthorizationInstanceReportType" : "transactionAuthorizationInstanceReportType",
+    "transactionAuthorizationInstanceReportRecord" : {},
+    "transactionAuthorizationInstanceReportParameters" : "transactionAuthorizationInstanceReportParameters"
+  },
+  "transactionCaptureServiceInputsandOuputs" : "transactionCaptureServiceInputsandOuputs",
+  "transactionCapturePreconditions" : "transactionCapturePreconditions",
+  "transactionCaptureServiceType" : "transactionCaptureServiceType",
+  "transactionCaptureServiceWorkProduct" : "transactionCaptureServiceWorkProduct",
+  "transactionAuthorizationRetrieveActionResponse" : "transactionAuthorizationRetrieveActionResponse"
+}

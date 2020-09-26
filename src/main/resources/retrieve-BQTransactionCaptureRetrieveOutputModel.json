@@ -1,0 +1,26 @@
+{
+  "transactionReversalPostconditions" : "transactionReversalPostconditions",
+  "transactionReversalCardTransactionReversalServiceInputsandOuputs" : "transactionReversalCardTransactionReversalServiceInputsandOuputs",
+  "transactionReversalPreconditions" : "transactionReversalPreconditions",
+  "transactionReversalCardTransactionReversalServiceDescription" : "transactionReversalCardTransactionReversalServiceDescription",
+  "transactionCaptureInstanceAnalysis" : {
+    "transactionCaptureInstanceAnalysisReportType" : "transactionCaptureInstanceAnalysisReportType",
+    "transactionCaptureInstanceAnalysisReport" : {},
+    "transactionCaptureInstanceAnalysisRecord" : {},
+    "transactionCaptureInstanceAnalysisParameters" : "transactionCaptureInstanceAnalysisParameters"
+  },
+  "transactionReversalCardTransactionReversalServiceType" : "transactionReversalCardTransactionReversalServiceType",
+  "transactionReversalCardTransactionReversalServiceWorkProduct" : "transactionReversalCardTransactionReversalServiceWorkProduct",
+  "transactionReversalTaskSchedule" : "transactionReversalTaskSchedule",
+  "transactionCaptureRetrieveActionTaskRecord" : {},
+  "transactionCaptureRetrieveActionResponse" : "transactionCaptureRetrieveActionResponse",
+  "transactionCaptureInstanceReport" : {
+    "transactionCaptureInstanceReportType" : "transactionCaptureInstanceReportType",
+    "transactionCaptureInstanceReport" : {},
+    "transactionCaptureInstanceReportRecord" : {},
+    "transactionCaptureInstanceReportParameters" : "transactionCaptureInstanceReportParameters"
+  },
+  "transactionReversalCardTransactionReversalServiceName" : "transactionReversalCardTransactionReversalServiceName",
+  "transactionCaptureRetrieveActionTaskReference" : "TCRATR782667",
+  "cardTransactionReversal" : "cardTransactionReversal"
+}

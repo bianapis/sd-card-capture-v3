@@ -1,0 +1,15 @@
+{
+  "transactionConsolidationExecuteActionTaskRecord" : {},
+  "transactionConsolidationPostconditions" : "transactionConsolidationPostconditions",
+  "executeResponseRecord" : {},
+  "cardTransactionConsolidation" : "cardTransactionConsolidation",
+  "transactionConsolidationCardTransactionConsolidationServiceWorkProduct" : "transactionConsolidationCardTransactionConsolidationServiceWorkProduct",
+  "transactionConsolidationCardTransactionConsolidationServiceInputsandOuputs" : "transactionConsolidationCardTransactionConsolidationServiceInputsandOuputs",
+  "transactionConsolidationExecuteActionTaskReference" : "TCEATR706494",
+  "transactionConsolidationTaskSchedule" : "transactionConsolidationTaskSchedule",
+  "transactionConsolidationExecuteRecordReference" : "TCERR707786",
+  "transactionConsolidationCardTransactionConsolidationServiceType" : "transactionConsolidationCardTransactionConsolidationServiceType",
+  "transactionConsolidationCardTransactionConsolidationServiceDescription" : "transactionConsolidationCardTransactionConsolidationServiceDescription",
+  "transactionConsolidationCardTransactionConsolidationServiceName" : "transactionConsolidationCardTransactionConsolidationServiceName",
+  "transactionConsolidationPreconditions" : "transactionConsolidationPreconditions"
+}

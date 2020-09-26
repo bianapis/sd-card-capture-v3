@@ -1,0 +1,13 @@
+{
+  "businessService" : "businessService",
+  "transactionAuthorizationServiceType" : "transactionAuthorizationServiceType",
+  "transactionAuthorizationPreconditions" : "transactionAuthorizationPreconditions",
+  "transactionReversalUpdateActionTaskRecord" : {},
+  "transactionAuthorizationPostconditions" : "transactionAuthorizationPostconditions",
+  "transactionReversalUpdateActionTaskReference" : "TRUATR783691",
+  "transactionAuthorizationTaskSchedule" : "transactionAuthorizationTaskSchedule",
+  "updateResponseRecord" : {},
+  "transactionAuthorizationServiceWorkProduct" : "transactionAuthorizationServiceWorkProduct",
+  "transactionAuthorizationServiceDescription" : "transactionAuthorizationServiceDescription",
+  "transactionAuthorizationServiceInputsandOuputs" : "transactionAuthorizationServiceInputsandOuputs"
+}

@@ -1,0 +1,21 @@
+{
+  "cardCaptureConfigurationActionTaskRecord" : {},
+  "cardCaptureConfigurationActionTaskReference" : "SCATR765419",
+  "cardCaptureServiceConfigurationRecord" : {
+    "cardCaptureServiceConfigurationSettingDescription" : "cardCaptureServiceConfigurationSettingDescription",
+    "cardCaptureServiceAgreement" : {
+      "cardCaptureServiceUserReference" : "733696",
+      "cardCaptureServiceAgreementTermsandConditions" : "cardCaptureServiceAgreementTermsandConditions",
+      "cardCaptureServiceAgreementReference" : "721156"
+    },
+    "cardCaptureServiceSubscription" : {
+      "cardCaptureServiceSubscriberAccessProfile" : "cardCaptureServiceSubscriberAccessProfile",
+      "cardCaptureServiceSubscriberReference" : "756221"
+    },
+    "cardCaptureServiceStatus" : "cardCaptureServiceStatus",
+    "cardCaptureServiceConfigurationSetup" : {
+      "cardCaptureServiceConfigurationParameter" : "cardCaptureServiceConfigurationParameter"
+    }
+  },
+  "cardCaptureServicingSessionStatus" : "cardCaptureServicingSessionStatus"
+}

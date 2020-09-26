@@ -1,0 +1,15 @@
+{
+  "transactionConsolidationPostconditions" : "transactionConsolidationPostconditions",
+  "cardTransactionConsolidation" : "cardTransactionConsolidation",
+  "transactionConsolidationCardTransactionConsolidationServiceWorkProduct" : "transactionConsolidationCardTransactionConsolidationServiceWorkProduct",
+  "transactionConsolidationCardTransactionConsolidationServiceInputsandOuputs" : "transactionConsolidationCardTransactionConsolidationServiceInputsandOuputs",
+  "transactionConsolidationControlActionResponse" : "transactionConsolidationControlActionResponse",
+  "transactionConsolidationTaskSchedule" : "transactionConsolidationTaskSchedule",
+  "transactionConsolidationCardTransactionConsolidationServiceType" : "transactionConsolidationCardTransactionConsolidationServiceType",
+  "transactionConsolidationInstanceStatus" : "transactionConsolidationInstanceStatus",
+  "transactionConsolidationCardTransactionConsolidationServiceDescription" : "transactionConsolidationCardTransactionConsolidationServiceDescription",
+  "transactionConsolidationControlActionTaskReference" : "TCCATR785172",
+  "transactionConsolidationControlActionTaskRecord" : {},
+  "transactionConsolidationCardTransactionConsolidationServiceName" : "transactionConsolidationCardTransactionConsolidationServiceName",
+  "transactionConsolidationPreconditions" : "transactionConsolidationPreconditions"
+}

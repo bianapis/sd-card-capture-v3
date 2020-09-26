@@ -1,0 +1,24 @@
+{
+  "cardCaptureActivationActionTaskRecord" : {},
+  "cardCaptureServicingSessionRecord" : {},
+  "cardCaptureServicingSessionReference" : "SSSR783215",
+  "cardCaptureActivationActionTaskReference" : "SAATR758836",
+  "cardCaptureServiceConfigurationRecord" : {
+    "cardCaptureServiceConfigurationSettingDescription" : "cardCaptureServiceConfigurationSettingDescription",
+    "cardCaptureServiceAgreement" : {
+      "cardCaptureServiceUserReference" : "767210",
+      "cardCaptureServiceAgreementTermsandConditions" : "cardCaptureServiceAgreementTermsandConditions",
+      "cardCaptureServiceAgreementReference" : "791202"
+    },
+    "cardCaptureServiceSubscription" : {
+      "cardCaptureServiceSubscriberAccessProfile" : "cardCaptureServiceSubscriberAccessProfile",
+      "cardCaptureServiceSubscriberReference" : "769192"
+    },
+    "cardCaptureServiceStatus" : "cardCaptureServiceStatus",
+    "cardCaptureServiceConfigurationSetup" : {
+      "cardCaptureServiceConfigurationParameter" : "cardCaptureServiceConfigurationParameter"
+    },
+    "cardCaptureServiceConfigurationSettingReference" : "700761"
+  },
+  "cardCaptureServicingSessionStatus" : "cardCaptureServicingSessionStatus"
+}

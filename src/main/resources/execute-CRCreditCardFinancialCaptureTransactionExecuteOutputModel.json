@@ -1,0 +1,9 @@
+{
+  "executeRecordReference" : "ERR743727",
+  "creditChargeCardFinancialCaptureTransactionParameterType" : "creditChargeCardFinancialCaptureTransactionParameterType",
+  "creditChargeCardFinancialCaptureTransactionStatus" : "creditChargeCardFinancialCaptureTransactionStatus",
+  "creditCardFinancialCaptureTransactionExecuteActionTaskReference" : "CCFCTEATR736620",
+  "creditCardFinancialCaptureTransactionExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "creditChargeCardFinancialCaptureTransactionSelectedOption" : "creditChargeCardFinancialCaptureTransactionSelectedOption"
+}

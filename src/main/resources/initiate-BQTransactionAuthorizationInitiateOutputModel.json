@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "transactionCaptureServiceName" : "transactionCaptureServiceName",
+  "transactionCaptureTaskSchedule" : "transactionCaptureTaskSchedule",
+  "transactionCapturePostconditions" : "transactionCapturePostconditions",
+  "transactionAuthorizationInstanceReference" : "TAIR753422",
+  "transactionAuthorizationInitiateActionReference" : "TAIAR743624",
+  "transactionCaptureServiceDescription" : "transactionCaptureServiceDescription",
+  "transactionAuthorizationInstanceStatus" : "transactionAuthorizationInstanceStatus",
+  "transactionCaptureServiceInputsandOuputs" : "transactionCaptureServiceInputsandOuputs",
+  "transactionAuthorizationInitiateActionRecord" : {},
+  "transactionCapturePreconditions" : "transactionCapturePreconditions",
+  "transactionCaptureServiceType" : "transactionCaptureServiceType",
+  "transactionCaptureServiceWorkProduct" : "transactionCaptureServiceWorkProduct"
+}

@@ -1,0 +1,26 @@
+{
+  "transactionConsolidationPostconditions" : "transactionConsolidationPostconditions",
+  "transactionConsolidationRetrieveActionResponse" : "transactionConsolidationRetrieveActionResponse",
+  "cardTransactionConsolidation" : "cardTransactionConsolidation",
+  "transactionConsolidationCardTransactionConsolidationServiceWorkProduct" : "transactionConsolidationCardTransactionConsolidationServiceWorkProduct",
+  "transactionConsolidationCardTransactionConsolidationServiceInputsandOuputs" : "transactionConsolidationCardTransactionConsolidationServiceInputsandOuputs",
+  "transactionConsolidationTaskSchedule" : "transactionConsolidationTaskSchedule",
+  "transactionConsolidationCardTransactionConsolidationServiceType" : "transactionConsolidationCardTransactionConsolidationServiceType",
+  "transactionConsolidationRetrieveActionTaskReference" : "TCRATR762149",
+  "transactionConsolidationInstanceReport" : {
+    "transactionConsolidationInstanceReportType" : "transactionConsolidationInstanceReportType",
+    "transactionConsolidationInstanceReport" : {},
+    "transactionConsolidationInstanceReportRecord" : {},
+    "transactionConsolidationInstanceReportParameters" : "transactionConsolidationInstanceReportParameters"
+  },
+  "transactionConsolidationCardTransactionConsolidationServiceDescription" : "transactionConsolidationCardTransactionConsolidationServiceDescription",
+  "transactionConsolidationInstanceAnalysis" : {
+    "transactionConsolidationInstanceAnalysisRecord" : {},
+    "transactionConsolidationInstanceAnalysisReportType" : "transactionConsolidationInstanceAnalysisReportType",
+    "transactionConsolidationInstanceAnalysisReport" : {},
+    "transactionConsolidationInstanceAnalysisParameters" : "transactionConsolidationInstanceAnalysisParameters"
+  },
+  "transactionConsolidationRetrieveActionTaskRecord" : {},
+  "transactionConsolidationCardTransactionConsolidationServiceName" : "transactionConsolidationCardTransactionConsolidationServiceName",
+  "transactionConsolidationPreconditions" : "transactionConsolidationPreconditions"
+}
